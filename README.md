@@ -13,3 +13,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 ### こんにちはこんにちは！
 
 このリポジトリは *フォークする* ための例として用意されたリポジトリです
+
+*フォーク* を作ることは誰か他のプロジェクトの個人的なコピーを作ることです
